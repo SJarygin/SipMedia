@@ -2,47 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e9c5fdf-b0b2-43ff-9688-92b31d8fc78f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/services/SipMediaAPI/app/api/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/SipMediaAPI/app/api/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/SipMediaAPI/app/models/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/SipMediaAPI/app/routes/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/SipMediaAPI/app/routes/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/SipMediaAPI/app/setup/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/SipMediaAPI/config/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/SipMediaAPI/config/database.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/SipMediaAPI/config/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/SipMediaAPI/config/passport.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/build/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/build/webpack.test.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/config/test.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/assets/partials/_animations.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/assets/partials/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/assets/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/components/pages/Authentication/Authentication.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/components/pages/Authentication/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/components/pages/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/static/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/test/e2e/custom-assertions/elementCount.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/test/e2e/nightwatch.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/test/e2e/runner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/test/e2e/specs/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/test/unit/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/test/unit/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/test/unit/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/test/unit/specs/HelloWorld.spec.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/SipMediaAPI/config/database.js" beforeDir="false" afterPath="$PROJECT_DIR$/services/SipMediaAPI/config/database.js" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="user.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/services/SipMediaAPI/app/api/user.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="SCSS File" />
         <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
       </list>
     </option>
   </component>
@@ -57,105 +77,33 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/SipMediaAPI/app/models/user.js" />
-        <option value="$PROJECT_DIR$/SipMediaAPI/config/passport.js" />
-        <option value="$PROJECT_DIR$/SipMediaAPI/config/index.js" />
-        <option value="$PROJECT_DIR$/SipMediaAPI/config/database.js" />
-        <option value="$PROJECT_DIR$/services/SipMediaAPI/app/setup/index.js" />
-        <option value="$PROJECT_DIR$/services/SipMediaAPI/app/api/auth.js" />
-        <option value="$PROJECT_DIR$/services/SipMediaAPI/app/routes/auth.js" />
-        <option value="$PROJECT_DIR$/services/SipMediaAPI/app/api/user.js" />
-        <option value="$PROJECT_DIR$/services/SipMediaAPI/app/routes/user.js" />
-        <option value="$PROJECT_DIR$/services/SipMediaAPI/config/passport.js" />
-        <option value="$PROJECT_DIR$/services/index.js" />
-        <option value="$PROJECT_DIR$/services/SipMediaAPI/config/index.js" />
-        <option value="$PROJECT_DIR$/services/SipMediaAPI/config/database.js" />
-        <option value="$PROJECT_DIR$/services/SipMediaAPI/config/app.js" />
-        <option value="$PROJECT_DIR$/package.json" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules" />
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths>
-      <path value="$PROJECT_DIR$/package.json" />
-    </packageJsonPaths>
-  </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
+  <component name="ProjectId" id="1PP68vRcbfxvagELg7KEbP9CbeY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="SipMedia" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SipMedia" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SipMedia" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SipMedia" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SipMedia" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SipMedia" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-              <item name="SipMediaAPI" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SipMedia" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SipMedia" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-              <item name="SipMediaAPI" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SipMedia" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SipMedia" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
-              <item name="SipMediaAPI" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="$PROJECT_DIR$/application/node_modules/eslint" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="BashSupport" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -174,11 +122,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="./services/index.js" working-dir="$PROJECT_DIR$/" />
+  <component name="RunManager" selected="Node.js.index.js">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="./services/index.js" working-dir="$PROJECT_DIR$/">
+      <method v="2" />
+    </configuration>
+    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="main.js" working-dir="$PROJECT_DIR$/application/src">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.index.js" />
+      <item itemvalue="Node.js.main.js" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.index.js" />
+        <item itemvalue="Node.js.main.js" />
       </list>
     </recent_temporary>
   </component>
@@ -192,54 +150,40 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563084000520</updated>
-      <workItem from="1563084005040" duration="4839000" />
+      <workItem from="1563084005040" duration="5764000" />
+      <workItem from="1565351607873" duration="8085000" />
+      <workItem from="1565763257179" duration="3853000" />
     </task>
+    <task id="LOCAL-00001" summary="+ minimal &#10;+ auth">
+      <created>1563089569511</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563089569511</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4839000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32905984" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4059829" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="+ minimal &#10;+ auth" />
+    <option name="LAST_COMMIT_MESSAGE" value="+ minimal &#10;+ auth" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/services/SipMediaAPI/app/api/user.js</url>
-          <line>12</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="10" />
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="NodeJSConfigurationType">
         <watch expression="process.env" language="JavaScript" />
@@ -259,117 +203,5 @@
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/module-alias/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/passport-jwt/lib/strategy.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services/SipMediaAPI/app/models/user.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="41" column="31" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services/SipMediaAPI/app/routes/user.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services/SipMediaAPI/app/routes/auth.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/bcrypt/bcrypt.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-962" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services/SipMediaAPI/config/passport.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services/SipMediaAPI/config/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="46" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services/SipMediaAPI/config/database.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services/SipMediaAPI/config/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="23" column="24" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services/SipMediaAPI/app/api/auth.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services/SipMediaAPI/app/setup/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services/SipMediaAPI/app/api/user.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>

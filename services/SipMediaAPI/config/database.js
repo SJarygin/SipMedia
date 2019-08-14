@@ -3,6 +3,8 @@ module.exports = (AMongoose, AConfig) => {
   AMongoose.Promise = Promise;
   AMongoose.connect(AConfig.database, {
 //    useMongoClient: true,
+    useNewUrlParser: true,
+    useCreateIndex: true,
     promiseLibrary: global.Promise
   });
   database.on('error', AError => console.log(`Connection to SipMedia database failed: ${AError}`));

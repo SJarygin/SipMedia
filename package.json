@@ -20,13 +20,15 @@
     "mongoose": "^5.6.4",
     "morgan": "^1.9.1",
     "passport": "^0.4.0",
-    "passport-jwt": "^4.0.0"
+    "passport-jwt": "^4.0.0",
+    "vue": "^2.6.10",
+    "webpack": "^4.39.1"
   },
   "_moduleAliases": {
     "@root": ".",
     "@SipMedia": "./services/SipMediaAPI",
-    "@SipMediaModels":"./services/SipMediaAPI/app/models",
-    "@SipMediaAPI":"./services/SipMediaAPI/config/app.js",
+    "@SipMediaModels": "./services/SipMediaAPI/app/models",
+    "@SipMediaAPI": "./services/SipMediaAPI/config/app.js",
     "@config": "./services/SipMediaAPI/config/index.js"
   }
 }
